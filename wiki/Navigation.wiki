@@ -6,7 +6,6 @@
 *Advanced*
   * [AutomatedScreenshots]
   * [SigningAPKWithMavenJarsigner Signing the APK]
-  * [AutomateAndroidTestProject Automated Android Tests]
   * [ApkSourcesDependency ApkSources - deprecated ]
   * [NativeDevelopmentKit Native Development]
   * [NativeLibsAsDependencies Native Libraries as Dependencies]
