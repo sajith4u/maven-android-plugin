@@ -5,7 +5,6 @@
 
 *Advanced*
   * [AutomatedScreenshots]
-  * [ProGuard Shrink, Obfuscate and Optimize with Proguard]
   * [SigningAPKWithMavenJarsigner Signing the APK]
   * [AutomateAndroidTestProject Automated Android Tests]
   * [ApkSourcesDependency ApkSources - deprecated ]
