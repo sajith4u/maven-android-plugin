@@ -10,4 +10,3 @@
   * [ApkSourcesDependency ApkSources - deprecated ]
   * [NativeDevelopmentKit Native Development]
   * [NativeLibsAsDependencies Native Libraries as Dependencies]
-  * [Scala]
